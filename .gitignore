@@ -11,3 +11,6 @@ desktop.ini
 *.log
 tmp/
 out/
+
+# 中间产物
+work/
