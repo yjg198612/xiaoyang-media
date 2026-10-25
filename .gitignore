@@ -1,0 +1,13 @@
+# 本地项目数据，不入库
+.workbuddy/
+
+# 系统与编辑器文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时输出
+*.tmp
+*.log
+tmp/
+out/
